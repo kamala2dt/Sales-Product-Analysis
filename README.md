@@ -13,6 +13,6 @@ Q: What product sold the most?
 Q: What products are most often sold together?
 
 
-My project is on Kaggle:
+The updated version of this project is at Kaggle link below.
 
 https://www.kaggle.com/code/kamalapousajja/sales-product-data-analysis
